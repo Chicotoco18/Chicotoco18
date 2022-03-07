@@ -1,5 +1,5 @@
 - Hello guys, my name is Mateus Rauli and I'm 19 years old
 - I'm interested in software development, AI, Cloud and everything that contains technology
 - You can find me on LinkedIn: linkedin.com/in/mateus-rauli-giacoia-chioquetta-28916620a/ 
-- I don't have any profissional experience, but I have basic knowledge in C#, JavaScript, HTML, CSS, DB. 
+- I have basic knowledge in C#, JavaScript, HTML, CSS, DB. 
 - That's all, thanks for viewing my profile! 
