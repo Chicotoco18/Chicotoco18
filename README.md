@@ -1,7 +1,7 @@
 - Hello guys, my name is Mateus Rauli and I'm 19 years old
 - I'm interested in software development, AI, Cloud and everything that contains technology
 - You can find me on LinkedIn: linkedin.com/in/mateus-rauli-giacoia-chioquetta-28916620a/ 
-- I have basic knowledge in C#, JavaScript, HTML, CSS, DB, Angular. 
+- I have basic knowledge in C#, JavaScript, HTML, CSS, SQL, Angular, React, TypeScript, PostgreSQL. 
 - I'm currently working as a Backend Developer at GBM Tech & Control
 - That's all, thanks for viewing my profile! 
 
